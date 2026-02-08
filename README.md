@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navaneet Rao Dhage</h1>
 <h3 align="center">A passionate embedded software developer.</h3>
 
-- 🔭 I’m currently working on **RTOS.**
-
 - 🌱 I’m currently learning **DSA and Machine Learning.**
+
+- 🔭 Skills I plan on earning **RTOS.**
 
 - 👯 I’m looking to collaborate on **embedded software/firmware development projects.**
 
