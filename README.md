@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA and Machine Learning.**
 
-- 🔭 Skills I plan on earning **RTOS.**
+- 🔭 Skills I plan on learning **RTOS.**
 
 - 👯 I’m looking to collaborate on **embedded software/firmware development projects.**
 
